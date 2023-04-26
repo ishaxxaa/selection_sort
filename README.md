@@ -1,4 +1,4 @@
-# selection_sort<img width="372" alt="selection" src="https://user-images.githubusercontent.com/126075191/234514051-aa04465a-e350-435b-be10-5b26e0987e76.PNG">
+# selection_sort
 This program is written in C language and implements the Selection Sort algorithm to sort an array of 5 integers in ascending order. The program initializes an unsorted array of integers and calls the Selection Sort function to sort the array in place. The program then outputs the sorted array.
 
 Algorithm
